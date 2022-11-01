@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I’m currently learning Frontend Dev in Scrimba.
-### HTML, CSS and Javascript
+### HTML, CSS, Javascript and React!
+###
 <!--
 **Franciscozcode/Franciscozcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
